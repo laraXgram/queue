@@ -14,14 +14,14 @@
   ],
   "require": {
     "php": "^8.3",
-    "illuminate/collections": "^3.0",
-    "illuminate/console": "^3.0",
-    "illuminate/container": "^3.0",
-    "illuminate/contracts": "^3.0",
-    "illuminate/database": "^3.0",
-    "illuminate/filesystem": "^3.0",
-    "illuminate/pipeline": "^3.0",
-    "illuminate/support": "^3.0"
+    "laraxgram/collections": "^3.0",
+    "laraxgram/console": "^3.0",
+    "laraxgram/container": "^3.0",
+    "laraxgram/contracts": "^3.0",
+    "laraxgram/database": "^3.0",
+    "laraxgram/filesystem": "^3.0",
+    "laraxgram/pipeline": "^3.0",
+    "laraxgram/support": "^3.0"
   },
   "autoload": {
     "psr-4": {
@@ -39,7 +39,7 @@
     "ext-mbstring": "Required to use the database failed job providers.",
     "ext-pcntl": "Required to use all features of the queue worker.",
     "ext-posix": "Required to use all features of the queue worker.",
-    "illuminate/redis": "Required to use the Redis queue driver (^3.0)."
+    "laraxgram/redis": "Required to use the Redis queue driver (^3.0)."
   },
   "config": {
     "sort-packages": true
