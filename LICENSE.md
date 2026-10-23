@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 LaraGram
+Copyright (c) 2025 LaraGram
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--- 
+
+Please note that this project makes use of third-party libraries and packages.  
+The licenses for all third-party dependencies are provided in the file  
+`THIRD_PARTY_LICENSES.md` located in the root of this repository.
